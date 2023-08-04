@@ -1,6 +1,7 @@
 # :yum: Hey! Nice to have you here. 
 Welcome to my world :globe_with_meridians:! 
 Salut, moi c'est Chablis Mahutin, fullstack developper from :benin:, i often work remotely. 
+With an astonishing 5 years of experience, Chablis has conquered the realms of Java, Php, JavaScript, and more. An adaptable talent that learns new languages like it’s nothing and crafts epic web and desktop applications alike. SpringBoot, Laravel and Express.js are not foreign to me
 
 **Things i code with**
 
