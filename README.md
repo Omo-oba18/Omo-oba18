@@ -22,12 +22,12 @@ Projects I worked on:
 
 <div style="width:100%; clear: both; content: ''; display: table;">
   <div style="float: left; width: 33.33%;padding: 5px;">
-    <img src="https://github.com/Omo-oba18/Omo-oba18/blob/main/assets/dnk-landing.png?raw=true" alt="Snow" style="width:100%">
+    <img src="https://github.com/Omo-oba18/Omo-oba18/blob/main/assets/dnk-landing.png?raw=true&size=200x200" alt="Snow">
   </div>
   <div style="float: left; width: 200px;padding: 5px;">
-    <img src="https://github.com/Omo-oba18/Omo-oba18/blob/main/assets/dnk-donate.png?raw=true" alt="Forest" style="width:100%">
+    <img src="https://github.com/Omo-oba18/Omo-oba18/blob/main/assets/dnk-donate.png?raw=true&size=200x200" alt="Forest">
   </div>
   <div style="float: left; width: 200px;padding: 5px;">
-    <img src="https://github.com/Omo-oba18/Omo-oba18/blob/main/assets/dnk-about.png?raw=true" alt="Mountains" style="width:200px">
+    <img src="https://github.com/Omo-oba18/Omo-oba18/raw/main/assets/dnk-about.png?raw=true&size=200x200" alt="Mountains">
   </div>
 </div>
