@@ -18,3 +18,4 @@ Projects I worked on:
 
 [donation-website](https://donation-dnk.vercel.app)
 
+![Image Alt Text](https://github.com/Omo-oba18/Omo-oba18/blob/main/assets/dnk-about.png?raw=true)
