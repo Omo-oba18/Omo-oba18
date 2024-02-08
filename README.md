@@ -20,7 +20,7 @@ Projects I worked on:
 
 ![Image Alt Text](https://github.com/Omo-oba18/Omo-oba18/blob/main/assets/dnk-about.png?raw=true)
 
-<div style="clear: both; content: ''; display: table;">
+<div style="width:100%; clear: both; content: ''; display: table;">
   <div style="float: left; width: 33.33%;padding: 5px;">
     <img src="https://github.com/Omo-oba18/Omo-oba18/blob/main/assets/dnk-landing.png?raw=true" alt="Snow" style="width:100%">
   </div>
