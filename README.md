@@ -18,7 +18,7 @@ Projects I worked on:
 
 [donation-website](https://donation-dnk.vercel.app)
 
-<div style="display: flex;">
+<div style="display: flex; flex-direction: flex-row">
   <div style="flex: 33.33%; padding: 5px;">
     <img src="https://github.com/Omo-oba18/Omo-oba18/blob/main/assets/dnk-landing.png?raw=true&size=200x200" alt="dnk landing">
   </div>
